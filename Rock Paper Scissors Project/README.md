@@ -1,0 +1,3 @@
+Rock Paper Scissors (Python)
+
+This is a simple Rock Paper Scissors game created with Python. It allows a player to compete against a computer that makes random choices. The game uses basic input and output to guide the player, and it features ASCII art to show the hand symbols for rock, paper, and scissors. It is a great example of using conditional statements and the random module to build a fun, functional program.
