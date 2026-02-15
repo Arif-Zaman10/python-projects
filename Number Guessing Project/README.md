@@ -1,0 +1,3 @@
+Number Guessing Game (Python)
+
+This is a simple number guessing game built using Python. The program generates a random number between 1 and 100, and the user tries to guess it. At the beginning of the game, the user selects a difficulty level: easy mode gives 10 attempts and hard mode gives 5 attempts. After each guess, the program tells the user whether the guess is too high or too low. The game continues until the user guesses the correct number or runs out of attempts. Through this project, I practiced using the random module, conditional statements, while loops, counters, and loop control with break. This project helped me understand how to structure a small interactive program and manage user input effectively.
