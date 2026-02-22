@@ -1,17 +1,25 @@
 from turtle import Turtle, Screen
 import random
+screen = Screen()
+screen.colormode(255) 
 
 tim = Turtle()
 
+def random_color():
+    r = random.randint(0,255)
+    g = random.randint(0,255)
+    b = random.randint(0,255)
+    return (r,g,b)
+
 direction = [ 0, 180, 270, 90]
-colors = ["red", "blue", "green", "yellow", "purple", "orange"]
 tim.pensize(15)
 tim.speed("fastest")
-for _ in range(50):
-    tim.color(random.choice(colors))
+for _ in range(350):
+    tim.color(random_color())
     tim.forward(30)
     tim.right(random.choice(direction))
 
 
-screen = Screen()
+
+
 screen.exitonclick()
