@@ -1,9 +1,11 @@
 from turtle import Turtle, Screen
 import random
-screen = Screen()
-screen.colormode(255) 
+
+# screen.colormode(255) 
 
 tim = Turtle()
+screen = Screen()
+screen.colormode(255)
 
 def random_color():
     r = random.randint(0,255)
@@ -21,5 +23,5 @@ for _ in range(350):
 
 
 
-
 screen.exitonclick()
+
