@@ -16,9 +16,11 @@ This folder contains four separate mini-projects:
 - Spirograph Pattern
 - Spot Painting
 
+
+
 ---
 
-## 1. Geometric Pattern Generator
+## 1. Geometric Pattern Generatorgeo
 
 This project generates repeating geometric shapes using loops and angle rotations.
 
@@ -31,6 +33,9 @@ Concepts practiced:
 
 Purpose: Understand how geometric shapes are formed mathematically and how repetition creates larger patterns.
 
+
+
+(images/geometric_pattern_generator.png)
 ---
 
 ## 2. Random Walk

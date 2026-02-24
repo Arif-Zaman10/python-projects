@@ -1,7 +1,7 @@
 from turtle import Turtle, Screen
 import random
 
-# screen.colormode(255) 
+
 
 tim = Turtle()
 screen = Screen()
