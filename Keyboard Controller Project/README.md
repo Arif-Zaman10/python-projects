@@ -16,7 +16,6 @@ This Python project allows you to control a turtle using your keyboard. You can 
 - `d` - Rotate the turtle right by 10 degrees
 - `c` - Clear the screen and reset the turtle to the center
 
-
 ## Notes
 
 - The turtle moves in increments of 50 pixels or degrees.
